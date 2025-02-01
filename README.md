@@ -27,8 +27,10 @@ The detailed definitions of the messages above can be found in the `src/CSSR/msg
 `src/CSSR/scripts/simtest.py` can publish `/Control` messages to test the efficiency of CSSR, but cannot receive the messages published by CSSR.
 
 ## Environment Setup
-You can unzip the provided `CSSR.zip`, or download the code from the GitHub link below:  (Will be completed later).
-
+You can unzip the provided `CSSR.zip`, or download the code from the GitHub link below:
+```
+https://github.com/myTristan/CSSR.git
+```
 Then you can set up a virtual Python environment, and substitute `env` with your preferred environment name if you like.
 ```
 cd CSSR
