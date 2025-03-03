@@ -1,0 +1,5 @@
+<launch>
+    <node pkg="cssr" type="main.pyc" name="main" output="screen" required="true" />
+    <!-- 不发出测试消息时注释掉下面这行语句 -->
+    <!-- <node pkg="cssr" type="test.pyc" name="test" output="screen" />> -->
+</launch>
